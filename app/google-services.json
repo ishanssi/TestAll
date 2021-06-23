@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979646107229",
+    "project_id": "testallwithpushnotificatoin",
+    "storage_bucket": "testallwithpushnotificatoin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979646107229:android:08449686a514c48c8d47b4",
+        "android_client_info": {
+          "package_name": "com.example.testall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979646107229-kpoeu3jgiabh20cmr8qf6saus0a9r315.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDXBDgCANh4OS_LqM4ngQw5uCyVIAxuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979646107229-kpoeu3jgiabh20cmr8qf6saus0a9r315.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
